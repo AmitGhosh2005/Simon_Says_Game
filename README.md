@@ -6,8 +6,6 @@ A classic **Simon Says memory game** built using **HTML, CSS, and JavaScript**. 
 
 **Live Site:** [Play the Game on Vercel](https://simon-says-game-rouge.vercel.app)
 
-![Simon Says Game Preview](https://raw.githubusercontent.com/AmitGhosh2005/Simon_Says_Game/main/screenshot.png) 
-
 ## Features
 
 - Interactive game with increasing difficulty
